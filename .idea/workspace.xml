@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c7d970f-36e9-4d15-86da-cdcf4452e15f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/src/main/java/net/mooctest/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/src/main/java/net/mooctest/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/src/main/java/net/mooctest/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/src/main/java/net/mooctest/ProductEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/src/main/java/net/mooctest/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/src/main/java/net/mooctest/ShopKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/src/test/java/net/mooctest/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2mnIHFdlpC5yNUot25sw0V2Xj17" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ProductTest.executor": "Coverage",
+    "JUnit.ProductTest.test.executor": "Coverage",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/githubRep/JavaMoocTest/Supermarket/src/test/java/net/mooctest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\githubRep\JavaMoocTest\Supermarket\src\test\java\net\mooctest" />
+      <recent name="D:\githubRep\JavaMoocTest\Supermarket\src\main\java\net\mooctest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductTest">
+    <configuration name="ProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Supermarket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.mooctest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.mooctest" />
+      <option name="MAIN_CLASS_NAME" value="net.mooctest.ProductTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Supermarket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.mooctest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.mooctest" />
+      <option name="MAIN_CLASS_NAME" value="net.mooctest.ProductTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="JavaMoocTest" />
+      <extension name="coverage" runner="jacoco" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Unnamed" />
+      <item itemvalue="JUnit.ProductTest" />
+      <item itemvalue="JUnit.ProductTest.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductTest" />
+        <item itemvalue="JUnit.ProductTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c7d970f-36e9-4d15-86da-cdcf4452e15f" name="Changes" comment="" />
+      <created>1727705823908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727705823908</updated>
+      <workItem from="1727705824960" duration="1298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaMoocTest$ProductTest_test.ic" NAME="ProductTest.test Coverage Results" MODIFIED="1727706400200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.mooctest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaMoocTest$ProductTest.ic" NAME="ProductTest Coverage Results" MODIFIED="1727706447939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.mooctest.*</FILTER>
+    </SUITE>
+  </component>
+</project>
